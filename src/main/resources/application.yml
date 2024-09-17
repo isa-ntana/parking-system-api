@@ -1,0 +1,6 @@
+sprint:
+  application:
+    name: parking
+
+server:
+  port: 9000
